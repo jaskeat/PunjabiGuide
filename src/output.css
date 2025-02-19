@@ -612,11 +612,6 @@ video {
   margin-bottom: 0.75rem;
 }
 
-.my-5 {
-  margin-top: 1.25rem;
-  margin-bottom: 1.25rem;
-}
-
 .-mb-2 {
   margin-bottom: -0.5rem;
 }
@@ -653,22 +648,6 @@ video {
   flex: none;
 }
 
-.flex-col {
-  flex-direction: column;
-}
-
-.items-center {
-  align-items: center;
-}
-
-.justify-between {
-  justify-content: space-between;
-}
-
-.gap-2 {
-  gap: 0.5rem;
-}
-
 .overflow-x-auto {
   overflow-x: auto;
 }
@@ -699,17 +678,8 @@ video {
   text-align: left;
 }
 
-.text-center {
-  text-align: center;
-}
-
 .font-Ubuntu {
   font-family: Ubuntu Mono, serif;
-}
-
-.text-2xl {
-  font-size: 1.5rem;
-  line-height: 2rem;
 }
 
 .text-3xl {
@@ -753,11 +723,6 @@ video {
   color: rgb(37 99 235 / var(--tw-text-opacity, 1));
 }
 
-.text-gray-500 {
-  --tw-text-opacity: 1;
-  color: rgb(107 114 128 / var(--tw-text-opacity, 1));
-}
-
 .text-gray-700 {
   --tw-text-opacity: 1;
   color: rgb(55 65 81 / var(--tw-text-opacity, 1));
@@ -779,31 +744,14 @@ video {
   background-color: rgb(175 225 247 / var(--tw-bg-opacity, 1));
 }
 
-.hover\:text-blue-800:hover {
-  --tw-text-opacity: 1;
-  color: rgb(30 64 175 / var(--tw-text-opacity, 1));
-}
-
 @media (min-width: 768px) {
   .md\:mx-10 {
     margin-left: 2.5rem;
     margin-right: 2.5rem;
   }
 
-  .md\:flex-row {
-    flex-direction: row;
-  }
-
   .md\:flex-wrap {
     flex-wrap: wrap;
-  }
-
-  .md\:items-center {
-    align-items: center;
-  }
-
-  .md\:justify-between {
-    justify-content: space-between;
   }
 
   .md\:overflow-x-hidden {
