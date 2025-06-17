@@ -26,13 +26,14 @@ If you want to contribute directly, here's how you can help:
 5. Open a Pull Request
 
 Notes:
-Project is made using plain HTML with tailwind and minimal Javascript
+Project is made using plain HTML with tailwind and minimal Javascript but I am currently looking to migrate it to NetJS
 
 ## Roadmap
 
 ### Feaures to be added:
 
 -   A new page for shahmukhi resources
+-   A paragraph for each section giving tips on how to use the websites
 -   Option to save your favourite websites to the top
 
 ## License
