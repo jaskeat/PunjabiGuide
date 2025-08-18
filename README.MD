@@ -26,7 +26,7 @@ If you want to contribute directly, here's how you can help:
 5. Open a Pull Request
 
 Notes:
-Project is made using plain HTML with tailwind and minimal Javascript but I am currently looking to migrate it to NetJS
+Project is made using plain HTML with tailwind and minimal Javascript but I am currently looking to migrate it to NextJS so feel free to reach out if you want to help with that.
 
 ## Roadmap
 
